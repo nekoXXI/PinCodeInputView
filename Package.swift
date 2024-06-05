@@ -4,11 +4,11 @@
 import PackageDescription
 
 let package = Package(
-    name: "PinCodeInputView",
+    name: "SahihInvestPinCodeInputView",
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
-            name: "PinCodeInputView",
+            name: "SahihInvestPinCodeInputView",
             targets: ["PinCodeInputView"]),
     ],
     targets: [

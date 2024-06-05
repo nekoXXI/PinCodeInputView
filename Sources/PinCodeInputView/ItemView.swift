@@ -5,10 +5,9 @@
 //  Created by Jinsei Shima on 2018/11/17.
 //  Copyright © 2018 Jinsei Shima. All rights reserved.
 //
-
+#if canImport(UIKit)
 import UIKit
-
-// Default Item View
+#endif
 
 @IBDesignable
 public class ItemView: UIView, ItemType {

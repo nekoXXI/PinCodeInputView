@@ -6,6 +6,9 @@
 //  Copyright © 2018 Jinsei Shima. All rights reserved.
 //
 
+#if canImport(UIKit)
+import UIKit
+#endif
 import Foundation
 
 public struct ItemAppearance {
